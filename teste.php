@@ -1,5 +1,5 @@
 <?php
-
+//Rafael
 interface DiretorioInterface
 {
     public function recuperarListaArquivos();
