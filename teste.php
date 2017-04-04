@@ -1,6 +1,7 @@
 <?php
 //Rafael
 //GUilherme passou por aqui
+//Roginer
 interface DiretorioInterface
 {
     public function recuperarListaArquivos();
