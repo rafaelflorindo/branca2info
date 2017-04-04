@@ -1,5 +1,6 @@
 <?php
 //Rafael
+//GUilherme passou por aqui
 interface DiretorioInterface
 {
     public function recuperarListaArquivos();
