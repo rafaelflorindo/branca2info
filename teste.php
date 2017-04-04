@@ -3,6 +3,7 @@
 //Rafael
 //GUilherme passou por aqui
 //Roginer
+//Zenilton
 interface DiretorioInterface
 {
     public function recuperarListaArquivos();
